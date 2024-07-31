@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CArregloVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloProductos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CArregloProductos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CCategoria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CCategoria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CProducto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CProducto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CPersona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CPersona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloClientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CArregloClientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CCliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\CCliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\InicioFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\inicioFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\inicioFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\MenuFormulario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\MenuFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\MenuFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\InicioFormulario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioProductos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\FormularioProductos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\clientesFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\clientesFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\clientesFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\clientesFormulario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\Formularioproductos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\Formularioproductos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\formularioVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\formularioVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\formularioVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{1891C7C8-791A-4FBD-AD05-8AEAD0F1B553}|AppTienda\\AppTienda.vcxproj|solutionrelative:AppTienda\\formularioVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CArregloVentas.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloVentas.h",
+              "RelativeDocumentMoniker": "AppTienda\\CArregloVentas.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloVentas.h",
+              "RelativeToolTip": "AppTienda\\CArregloVentas.h",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwv1YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:41:30.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CVentas.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CVentas.h",
+              "RelativeDocumentMoniker": "AppTienda\\CVentas.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CVentas.h",
+              "RelativeToolTip": "AppTienda\\CVentas.h",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv2MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:40:54.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CArregloProductos.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloProductos.h",
+              "RelativeDocumentMoniker": "AppTienda\\CArregloProductos.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloProductos.h",
+              "RelativeToolTip": "AppTienda\\CArregloProductos.h",
+              "ViewState": "AQIAAFMAAAAAAAAAAADwv3oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:35:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CCategoria.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CCategoria.h",
+              "RelativeDocumentMoniker": "AppTienda\\CCategoria.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CCategoria.h",
+              "RelativeToolTip": "AppTienda\\CCategoria.h",
+              "ViewState": "AQIAACUAAAAAAAAAAADwv0wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:35:10.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CProducto.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CProducto.h",
+              "RelativeDocumentMoniker": "AppTienda\\CProducto.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CProducto.h",
+              "RelativeToolTip": "AppTienda\\CProducto.h",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwv0YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:30:43.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CPersona.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CPersona.h",
+              "RelativeDocumentMoniker": "AppTienda\\CPersona.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CPersona.h",
+              "RelativeToolTip": "AppTienda\\CPersona.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:16:04.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CArregloClientes.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloClientes.h",
+              "RelativeDocumentMoniker": "AppTienda\\CArregloClientes.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CArregloClientes.h",
+              "RelativeToolTip": "AppTienda\\CArregloClientes.h",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAcwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:10:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CCliente.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CCliente.h",
+              "RelativeDocumentMoniker": "AppTienda\\CCliente.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\CCliente.h",
+              "RelativeToolTip": "AppTienda\\CCliente.h",
+              "ViewState": "AQIAABkAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T13:10:06.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientesFormulario.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\ClientesFormulario.h",
+              "RelativeDocumentMoniker": "AppTienda\\ClientesFormulario.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\ClientesFormulario.h [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\ClientesFormulario.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T01:57:24.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientesFormulario.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\ClientesFormulario.h",
+              "RelativeDocumentMoniker": "AppTienda\\ClientesFormulario.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\ClientesFormulario.h",
+              "RelativeToolTip": "AppTienda\\ClientesFormulario.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T00:53:18.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormularioProductos.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioProductos.h",
+              "RelativeDocumentMoniker": "AppTienda\\FormularioProductos.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioProductos.h [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\FormularioProductos.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T00:38:53.46Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InicioFormulario.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.h",
+              "RelativeDocumentMoniker": "AppTienda\\InicioFormulario.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.h",
+              "RelativeToolTip": "AppTienda\\InicioFormulario.h",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwIUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T00:54:36.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InicioFormulario.cpp",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.cpp",
+              "RelativeDocumentMoniker": "AppTienda\\InicioFormulario.cpp",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.cpp",
+              "RelativeToolTip": "AppTienda\\InicioFormulario.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T07:00:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InicioFormulario.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.h",
+              "RelativeDocumentMoniker": "AppTienda\\InicioFormulario.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\InicioFormulario.h [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\InicioFormulario.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T07:04:31.963Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuFormulario.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.h",
+              "RelativeDocumentMoniker": "AppTienda\\MenuFormulario.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.h",
+              "RelativeToolTip": "AppTienda\\MenuFormulario.h",
+              "ViewState": "AQIAAMgAAAAAAAAAAADwv+AAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T03:04:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuFormulario.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.h",
+              "RelativeDocumentMoniker": "AppTienda\\MenuFormulario.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.h [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\MenuFormulario.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T03:03:24.628Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuFormulario.cpp",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.cpp",
+              "RelativeDocumentMoniker": "AppTienda\\MenuFormulario.cpp",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\MenuFormulario.cpp",
+              "RelativeToolTip": "AppTienda\\MenuFormulario.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T03:33:23.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormularioVentas.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioVentas.h",
+              "RelativeDocumentMoniker": "AppTienda\\FormularioVentas.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioVentas.h",
+              "RelativeToolTip": "AppTienda\\FormularioVentas.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T00:54:11.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormularioVentas.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioVentas.h",
+              "RelativeDocumentMoniker": "AppTienda\\FormularioVentas.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioVentas.h [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\FormularioVentas.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T00:54:09.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormularioProductos.h",
+              "DocumentMoniker": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioProductos.h",
+              "RelativeDocumentMoniker": "AppTienda\\FormularioProductos.h",
+              "ToolTip": "C:\\Users\\lovito99\\source\\repos\\AppTienda\\AppTienda\\FormularioProductos.h",
+              "RelativeToolTip": "AppTienda\\FormularioProductos.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T00:53:47.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

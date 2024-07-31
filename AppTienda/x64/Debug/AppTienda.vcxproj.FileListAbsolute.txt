@@ -1,0 +1,7 @@
+C:\Users\lovito99\source\repos\AppTienda\AppTienda\x64\Debug\AppTienda.vcxproj.AssemblyReference.cache
+C:\Users\lovito99\source\repos\AppTienda\AppTienda\x64\Debug\AppTienda.ClientesFormulario.resources
+C:\Users\lovito99\source\repos\AppTienda\AppTienda\x64\Debug\AppTienda.FormularioProductos.resources
+C:\Users\lovito99\source\repos\AppTienda\AppTienda\x64\Debug\AppTienda.FormularioVentas.resources
+C:\Users\lovito99\source\repos\AppTienda\AppTienda\x64\Debug\AppTienda.InicioFormulario.resources
+C:\Users\lovito99\source\repos\AppTienda\AppTienda\x64\Debug\AppTienda.MenuFormulario.resources
+C:\Users\lovito99\source\repos\AppTienda\AppTienda\x64\Debug\AppTienda.vcxproj.GenerateResource.cache
